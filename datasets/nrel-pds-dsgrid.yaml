@@ -22,7 +22,6 @@ Tags:
   - industrial
   - solar
 License: Creative Commons Attribution 4.0 United States License
-Citation:
 Resources:
   - Description: Transportation Energy & Mobility Pathway Options (TEMPO) Model Datasets
     ARN: arn:aws:s3:::nrel-pds-dsgrid/
@@ -32,19 +31,21 @@ Resources:
     - '[Browse Dataset](https://data.openei.org/s3_viewer?bucket=nrel-pds-dsgrid&prefix=tempo%2F)'
 DataAtWork:
   Tutorials:
-    - Title: TEMPO Project Notebooks
-      URL: https://github.com/dsgrid/dsgrid-project-StandardScenarios/tree/main/tempo_project/notebooks
+    - Title: dsgrid Documentation
+      URL: https://dsgrid.github.io/dsgrid/
+      AuthorName: Elaine Hale
+    - Title: dsgrid Project Standard Scenarios
+      URL: https://github.com/dsgrid/dsgrid-project-StandardScenarios
       AuthorName: Elaine Hale
   Tools & Applications:
-    - Title:
-      URL:
-      AuthorName:
-      AuthorURL:
+    - Title: dsgrid: Demand-Side Grid Toolkit
+      URL: https://www.nrel.gov/analysis/dsgrid.html
+      AuthorName: Elaine Hale
   Publications:
-    - Title:
-      URL:
-      AuthorName:
-      AuthorURL:
-DeprecatedNotice:
-ADXCategories:
-  -    
+    - Title: The Demand-side Grid (dsgrid) Model Documentation
+      URL: https://www.nrel.gov/docs/fy18osti/71492.pdf
+      AuthorName: Elaine Hale, Henry Horsey, Brandon Johnson, et al.
+    - Title: Highly Resolved Projections of Passenger Electric Vehicle Charging Loads for the Contiguous United States
+      URL: https://www.nrel.gov/docs/fy23osti/83916.pdf
+      AuthorName: Arthur Yip, Christopher Hoehne, Paige Jadun, Catherine Ledna, Elaine Hale, and Matteo Muratori
+
